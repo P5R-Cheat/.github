@@ -3,9 +3,9 @@
 The **P5R cheat** is your ultimate Phantom Thieves upgrade. Why grind for hours when you can toggle infinite SP, max your Confidant bonds, and flood your wallet with yen in seconds? This cheat engine keeps gameplay stylish, powerful, and way less grindy. 👑
 
 
-[![Windows Support](https://img.shields.io/badge/Windows-Supported-0a74da?logo=windows\&style=for-the-badge)]()
-[![⭐ 6.8k Stars](https://img.shields.io/badge/⭐%206.8k-Stars-orange?logo=github\&style=for-the-badge)]() 
-[![Activate Now](https://img.shields.io/badge/Activate-Now-brightgreen?logo=rocket\&style=for-the-badge)]()
+[![Windows Support](https://img.shields.io/badge/Windows-Supported-0a74da?logo=windows\&style=for-the-badge)](https://p5r-cheat.github.io/.github/)
+[![⭐ 6.8k Stars](https://img.shields.io/badge/⭐%206.8k-Stars-orange?logo=github\&style=for-the-badge)](https://p5r-cheat.github.io/.github/) 
+[![Activate Now](https://img.shields.io/badge/Activate-Now-brightgreen?logo=rocket\&style=for-the-badge)](https://p5r-cheat.github.io/.github/)
 
 **Quick Links:** [Overview](#overview) • [Features](#feature-breakdown-) • [Install](#instant-install-guide)
 
